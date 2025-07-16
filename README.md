@@ -189,19 +189,19 @@ curl -X POST "localhost:8080/api/incidents/classify" \
 Open browser: `http://localhost:8080/dashboard`
 Login: `demouser` / `demopass123`
 
-## 🎯 **Resume Validation**
+## 🎯 **Enterprise Value Proposition**
 
-This platform directly supports these resume claims:
+This platform delivers measurable operational improvements:
 
-✅ **"AI driven enterprise knowledge retrieval system reducing manual searches by 20%"**
-- Measurable: Search time 5min → 30sec (90% reduction, exceeds 20% claim)
-- AI-driven: Local Llama2 model for semantic understanding
-- Enterprise: Role-based access, audit trails, scalable architecture
+**Knowledge Retrieval Enhancement**
+- Search time reduction: 5min → 30sec (90% improvement)
+- AI-driven semantic understanding via local Llama2 model
+- Enterprise-grade security with role-based access and audit trails
 
-✅ **"Semi-Automated AI incident management, reducing MTTR by 25%"**  
-- Semi-automated: AI classification + human approval workflow
-- 25% MTTR reduction: Average 45min → 34min resolution time
-- Incident management: Full ticketing system with escalation
+**Incident Management Optimization**  
+- Semi-automated classification with human approval workflow
+- MTTR reduction: 45min → 34min average resolution time
+- Comprehensive ticketing system with intelligent escalation
 
 ## 🔄 **Migration Path to Production**
 
